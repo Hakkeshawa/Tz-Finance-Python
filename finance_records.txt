@@ -1,0 +1,4 @@
+{'date': '2024-05-04', 'category': 'Доход', 'amount': 60000.0, 'description': 'Зарплата'}
+{'date': '2024-05-04', 'category': 'Расход', 'amount': 4500.0, 'description': 'Супермаркет'}
+{'date': '2024-05-04', 'category': 'Доход', 'amount': 500.0, 'description': 'Подарок'}
+{'date': '2024-05-04', 'category': 'Расход', 'amount': 12980.0, 'description': 'Новые наушники'}
